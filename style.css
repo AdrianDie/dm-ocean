@@ -192,8 +192,8 @@ body.mobile-open { overflow: hidden; }
   position: relative; overflow: hidden;
   border-radius: var(--r-xl);
   background:
-    radial-gradient(120% 120% at 12% 8%, rgba(27,52,255,0.55) 0%, rgba(27,52,255,0) 46%),
-    radial-gradient(130% 130% at 92% 100%, rgba(43,72,255,0.42) 0%, rgba(43,72,255,0) 50%),
+    radial-gradient(ellipse 80% 65% at 30% 28%, rgba(27,52,255,0.52) 0%, rgba(27,52,255,0) 100%),
+    radial-gradient(ellipse 65% 75% at 76% 82%, rgba(43,72,255,0.40) 0%, rgba(43,72,255,0) 100%),
     linear-gradient(165deg, var(--cobalt-ink2) 0%, var(--cobalt-ink) 70%);
   box-shadow: var(--shadow-lg);
   color: #fff;
